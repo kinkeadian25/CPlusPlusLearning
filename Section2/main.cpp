@@ -6,6 +6,6 @@ int main()
     int num;
     cout << "What is your favorite number?" << endl;
     cin >> num;
-    cout << "Awesome, thats a great number! " << num << endl;
+    cout << "Awesome, " << num << " is a great number!" << endl;
     return 0;
 }
